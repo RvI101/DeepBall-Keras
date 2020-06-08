@@ -1,9 +1,11 @@
+# Intro
+This is a port of DeepBall in tf-keras.
+DeepBall paper is found here - https://arxiv.org/pdf/1902.07304.pdf
+
 # Ball Action Recognition
 
+A supplementary goal of this project.
 A multi-model pipeline that aims to recognize Pass, OutofBounds and Possession Ball States in long-shot match footage.
-
-Implementation of the DeepBall ball detector in Keras and Tensorflow.
-DeepBall paper is found here - https://arxiv.org/pdf/1902.07304.pdf
 
 The dataset used to train is the same as the paper above - https://pspagnolo.jimdofree.com/download/
 
